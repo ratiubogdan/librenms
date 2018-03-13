@@ -149,6 +149,7 @@ if (module_selected('web', $init_modules)) {
     umask(0002);
     if (!isset($config['title_image'])) {
         $config['title_image'] = 'images/librenms_logo_'.$config['site_style'].'.svg';
+        $config['logo-image'] = 'images/lenovo-logo.png';
     }
     require $install_dir . '/html/includes/vars.inc.php';
 }

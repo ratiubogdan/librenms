@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'Lenovo';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/Gotham-Book.otf); }
+
+
 body {
-  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-family: Lenovo, Verdana, Arial, Helvetica, sans-serif;
   margin: 0px;
   padding: 0px;
   padding-bottom: 50px;

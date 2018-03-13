@@ -8,7 +8,7 @@ if ($config['twofactor'] && isset($twofactorform)) {
           <div class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">
-                <?php echo '<img src="' . $config['title_image'] . '" class="img-responsive">'; ?>
+                <?php echo '<img src="' . $config['logo-image'] . '" class="img-responsive" style="width: 600px;">'; ?>
               </h3>
             </div>
             <div class="panel-body">

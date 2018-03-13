@@ -38,8 +38,8 @@ if (isset($config['site_style']) && ($config['site_style'] == 'dark' || $config[
       </button>
 <?php
 
-if ($config['title_image']) {
-    echo('<a class="hidden-md hidden-sm navbar-brand" href=""><img src="' . $config['title_image'] . '" /></a>');
+if ($config['logo-image']) {
+    echo('<a class="hidden-md hidden-sm navbar-brand" href=""><img src="' . $config['logo-image'] . '" /></a>');
 } else {
     echo('<a class="hidden-md hidden-sm navbar-brand" href="">'.$config['project_name'].'</a>');
 }
