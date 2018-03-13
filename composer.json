@@ -1,15 +1,15 @@
 {
-    "name": "librenms/librenms",
-    "description": "A fully featured network monitoring system that provides a wealth of features and device support.",
+    "name": "ratiubogdan/librenms",
+    "description": "Ratiubogdan A fully featured network monitoring system that provides a wealth of features and device support.",
     "type": "project",
     "keywords": ["network", "monitoring", "discovery", "alerting", "billing", "snmp", "distributed"],
     "homepage": "http://www.librenms.org/",
     "license": "GPL-3.0-or-later",
     "support": {
-        "source": "https://github.com/librenms/librenms/",
+        "source": "https://github.com/ratiubogdan/librenms/",
         "docs": "http://docs.librenms.org/",
         "forum": "https://community.librenms.org/",
-        "issues": "https://github.com/librenms/librenms/issues/",
+        "issues": "https://github.com/ratiubogdan/librenms/issues/",
         "irc": "irc://irc.freenode.org/#librenms"
     },
     "require": {
